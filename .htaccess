@@ -1,0 +1,4 @@
+# This folder is Next.js SOURCE, not an Apache document root.
+# Do not let Apache serve .env.local, SQL seeds, source, or package files.
+# Run npm run dev / npm start and open http://localhost:3000 instead.
+Require all denied
